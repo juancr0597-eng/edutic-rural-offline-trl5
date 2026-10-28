@@ -1,0 +1,5 @@
+# Configuración del servidor DHCP y DNS local para la Raspberry Pi
+interface=wlan0
+dhcp-range=192.168.4.10,192.168.4.50,255.255.255.0,12h
+domain=edutic.local
+address=/#/192.168.4.1
