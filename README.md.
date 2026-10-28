@@ -1,0 +1,14 @@
+﻿# EduTIC Rural - Prototipo Tecnológico Offline (TRL 5)
+
+Repositorio oficial del código y archivos de configuración para el micro-servidor educativo desplegado en escuelas rurales de Neiva, Huila.
+
+## Estructura del Proyecto
+* **`hostapd.conf`**: Configuración de la Red de Área Local (LAN) inalámbrica independiente.
+* **`dnsmasq.conf`**: Asignación de direcciones IP estáticas y servicio DHCP para los dispositivos cliente.
+* **Plataformas Integradas**: Kiwix (Servidor de contenidos estáticos offline) y MoodleBox (LMS para aulas virtuales).
+
+## Autores
+* Juan Nicolás Dussán Coronado
+* Juan Carlos Vallejo Ospina
+
+**Curso:** Proyecto de Grado - Ingeniería de Sistemas, UNAD (2026).
