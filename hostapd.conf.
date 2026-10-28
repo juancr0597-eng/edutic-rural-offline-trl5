@@ -1,4 +1,4 @@
-# ConfiguraciÛn de la interfaz inal·mbrica para la red LAN offline (EduTIC Rural)
+# Configuraci√≥n de la interfaz inal√°mbrica para la red LAN offline (EduTIC Rural)
 interface=wlan0
 driver=nl80211
 ssid=EduTIC_Rural_Intranet
